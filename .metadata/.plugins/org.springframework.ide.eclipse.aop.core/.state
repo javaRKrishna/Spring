@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="09IOCProj-ResolvingConstructorParams"/>
+<aop-project name="15IOCProj-RealtimeDI-CollectionInjection"/>
+<aop-project name="45IOCProjAnno-RealtimeDI-RealtimeStrategyDP-LayeredApp-properties file"/>
+<aop-project name="48IOCProj-SpringBeanLifeCycle-Declarative-Xml"/>
+<aop-project name="33IOCProj-PreInstantiationSingleton"/>
+<aop-project name="11IOCProj-CyclicDI-constuctorInjection"/>
+<aop-project name="22IOCProj-RealtimeDI-InnerBeans"/>
+<aop-project name="46IOCProjAnno-JavaConfigAnnotations"/>
+<aop-project name="41IOCProjAnno-@Required"/>
+<aop-project name="50IOCProj-SpringBeanLifeCycle-AnnotationDriven"/>
+<aop-project name="51IOCProjAnno-RealtimeDI-RealtimeStrategyDP-SpringBeanLifeCycle"/>
+<aop-project name="25IOCProj-StrategyDP-Autowiring"/>
+<aop-project name="49IOCProj-SpringBeanLifeCycle-ProgramaticApproach"/>
+<aop-project name="34IOCProj-RealtimeDI-Propertiees file"/>
+<aop-project name="10IOCProj-CyclicDI-setterInjection"/>
+<aop-project name="43IOCProjAnno-StereoTypeAnnotations"/>
+<aop-project name="40IOCProj-MiniProject2-NestedContainer-Java8"/>
+<aop-project name="13IOCProj-RealtimeDI-RealtimeStrategyDP-LayeredApp"/>
+<aop-project name="16IOCProj-NullInjection"/>
+<aop-project name="07IOCProj-StrategyDP-Spring"/>
+<aop-project name="42IOCProjAnno@-Autowired"/>
+<aop-project name="39IOCProj-MiniProject2-NestedContainer"/>
+<aop-project name="18IOCProj-RealtimeDI-BeanInheritence"/>
+<aop-project name="37IOCProj-RealtimeDI-EventListner"/>
+<aop-project name="47IOCProjAnno-JavaConfigAnnotations-@Resource"/>
+<aop-project name="44IOCProjAnno-RealtimeDI-RealtimeStrategyDP-LayeredApp"/>
+<aop-project name="08IOCProj-SetterInjection-constructorInjection"/>
+<aop-project name="12IOCProj-CyclicDI-SetterInjection-constuctorInjection"/>
+<aop-project name="28IOCProj-PrivateSpringBean"/>
+<aop-project name="24IOCProj-DependencyLookup"/>
+<aop-project name="14IOCProj-CollectionInjection"/>
+</aop-reference-model>

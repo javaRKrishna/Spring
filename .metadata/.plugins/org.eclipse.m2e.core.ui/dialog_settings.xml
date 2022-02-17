@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="E:\Workspace\Spring\43IOCProjAnno-StereoTypeAnnotations"/>
+			<item value="E:\Workspace\Spring\01IOCProj-SetterInjecion-POC"/>
+			<item value="E:\Workspace\Spring\37IOCProj-RealtimeDI-EventListner\src\main\java\com\kk\test\CustomerRegistrationTest.java"/>
+			<item value="D:\RKrishna\Spring\NTSP713-master\IOCProj36-SpringI18n"/>
+			<item value="D:\RKrishna\Spring\NTSP713-master\IOCProj35-I18n-CoreJava"/>
+			<item value="E:\Workspace\Spring"/>
+			<item value="E:\Workspace\Spring\16IOCProj-NullInjection\src\main\java\com\kk\test\NullInjectionTest.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.kk"/>
+		</list>
+		<list key="groupId">
+			<item value="com.kk"/>
+		</list>
+		<list key="artifactId">
+			<item value="48IOCProj-SpringBeanLifeCycle-Declarative-Xml"/>
+			<item value="46IOCProjAnno-JavaConfigAnnotations"/>
+			<item value="44IOCProjAnno-RealtimeDI-RealtimeStrategyDP-LayeredApp"/>
+			<item value="43IOCProjAnno-Autowired"/>
+			<item value="41IOCProjAnno-Required"/>
+			<item value="39IOCProj-MiniProject2-NestedContainer"/>
+			<item value="36IOCProj-SpringI18n"/>
+			<item value="35IOCProj-I18n-CoreJava"/>
+			<item value="31IOCProj-SpringBeanScopes"/>
+			<item value="30IOCProj-Singleton-CoreJava"/>
+			<item value="IOCProj29-FactoryMethodBeanInstantiation-POC"/>
+			<item value="24IOCProj-DependencyLookup"/>
+			<item value="21IOCProj-InnerBeans"/>
+			<item value="20IOCProj-DefaultBeanIds"/>
+			<item value="19IOCProj-CollectionMerging"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+</section>

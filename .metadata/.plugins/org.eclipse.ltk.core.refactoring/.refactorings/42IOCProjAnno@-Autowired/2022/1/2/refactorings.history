@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 packages to &apos;43IOCProjAnno-Autowired/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;42IOCProjAnno-Autowired&apos;&#x0D;&#x0A;- Destination element: &apos;43IOCProjAnno-Autowired/src/main/java&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     42IOCProjAnno-Autowired/src/com.kk.cfgs&#x0D;&#x0A;     42IOCProjAnno-Autowired/src/com.kk.comp&#x0D;&#x0A;     42IOCProjAnno-Autowired/src/com.kk.test" description="Copy packages" destination="=43IOCProjAnno-Autowired/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src&lt;com.kk.cfgs" element2="/src&lt;com.kk.comp" element3="/src&lt;com.kk.test" flags="589830" fragments="3" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1641295024169" version="1.0"/>
+</session>

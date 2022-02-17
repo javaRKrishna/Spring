@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;35IOCProj-I18n-CoreJava/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;IOCProj35-I18n-CoreJava&apos;&#x0D;&#x0A;- Destination element: &apos;35IOCProj-I18n-CoreJava/src/main/java&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     IOCProj35-I18n-CoreJava/src/main/java/com.nt.commons&#x0D;&#x0A;     IOCProj35-I18n-CoreJava/src/main/java/com.nt.test" description="Copy packages" destination="=35IOCProj-I18n-CoreJava/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;com.nt.commons" element2="/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;com.nt.test" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1640678058159" version="1.0"/>
+</session>

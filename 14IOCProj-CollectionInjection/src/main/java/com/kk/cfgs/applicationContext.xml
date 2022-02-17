@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="sysDaye" class="java.util.Date" />
+	<bean id="dob" class="java.util.Date">
+		<property name="year" value="96" />
+		<property name="month" value="00" />
+		<property name="date" value="02" />
+	</bean>
+
+	<!-- Array injection -->
+	<bean id="marks" class="com.kk.beans.MarksInfo">
+		<property name="marks">
+			<array>
+				<value>200</value>
+				<value>20</value>
+			</array>
+		</property>
+		<!-- <property name="date" ref="dt"/> -->
+		<property name="date" ref="dob" />
+	</bean>
+
+	<!-- List Injection -->
+	<bean id="clg" class="com.kk.beans.CollegeInfo">
+		<property name="studNames">
+			<list>
+				<value>Krishna</value>
+				<value>Ankit</value>
+			</list>
+		</property>
+		<property name="listDate">
+			<list>
+				<ref bean="sysDaye" />
+				<ref bean="dob" />
+			</list>
+		</property>
+	</bean>
+
+	<!-- Set Injection -->
+	<bean id="contact" class="com.kk.beans.ContactInfo">
+		<constructor-arg name="phoneNumbers">
+			<set>
+				<value>9770199232</value>
+				<value>7067978448</value>
+			</set>
+		</constructor-arg>
+		<constructor-arg name="dates">
+			<set>
+				<ref bean="sysDaye" />
+				<ref bean="dob" />
+			</set>
+		</constructor-arg>
+	</bean>
+
+	<!-- Map Injection -->
+	<bean id="univ" class="com.kk.beans.UniversityInfo">
+		<property name="facultyDetails">
+			<map>
+				<entry>
+					<key>
+						<value>1001</value>
+					</key>
+					<value>Krishna</value>
+				</entry>
+				<entry key="1002" value="Ankit" />
+				<entry key="1003" value="Krishna" />
+			</map>
+		</property>
+		<property name="datesInfo">
+			<map>
+				<entry>
+					<key>
+						<value>dob</value>
+					</key>
+					<ref bean="dob" />
+				</entry>
+				<entry key="System Date" value-ref="sysDaye" />
+			</map>
+		</property>
+		<property name="fruitsInfo">
+			<props>
+				<prop key="banana">yellow</prop>
+				<prop key="orange">orange</prop>
+				<prop key="guvawa">green</prop>
+			</props>
+		</property>
+	</bean>
+</beans>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.kk.commons&apos; to &apos;43IOCProjAnno-StereoTypeAnnotations/src/main/java/com.kk&apos;&#x0D;&#x0A;- Original project: &apos;34IOCProj-RealtimeDI-Propertiees file&apos;&#x0D;&#x0A;- Destination element: &apos;43IOCProjAnno-StereoTypeAnnotations/src/main/java/com.kk&apos;&#x0D;&#x0A;- Original element: &apos;34IOCProj-RealtimeDI-Propertiees file/src/main/java/com.kk.commons&apos;" description="Copy package" destination="=43IOCProjAnno-StereoTypeAnnotations/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.kk" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.kk.commons" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1641299092627" version="1.0"/>
+</session>

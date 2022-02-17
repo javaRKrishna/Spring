@@ -1,0 +1,19 @@
+package com.kk.comp;
+
+import org.springframework.context.annotation.Lazy;
+import org.springframework.stereotype.Component;
+
+@Component("bt")
+@Lazy(true)
+public class BlueDart implements ICourier {
+	public BlueDart() {
+		System.out.println("BlueDart.BlueDart()");
+	}
+	@Override
+	public String deliver(int oId) {
+		return "Order is delivered by BlueDart with Order Id:: "+oId;
+	}
+
+	
+
+}

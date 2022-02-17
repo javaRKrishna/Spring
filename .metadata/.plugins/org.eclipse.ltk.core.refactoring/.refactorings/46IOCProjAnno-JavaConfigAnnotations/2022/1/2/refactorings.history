@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;pom.xml&apos; to &apos;48IOCProj-SpringBeanLifeCycle-Declarative-Xml&apos;&#x0D;&#x0A;- Original project: &apos;46IOCProjAnno-JavaConfigAnnotations&apos;&#x0D;&#x0A;- Destination element: &apos;48IOCProj-SpringBeanLifeCycle-Declarative-Xml&apos;&#x0D;&#x0A;- Original element: &apos;pom.xml&apos;" description="Copy file" element1="pom.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1641377960566" target="/48IOCProj-SpringBeanLifeCycle-Declarative-Xml" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\RKrishna\Spring\NTSP713-master\IOCProj36-SpringI18n"/>
+			<item value="D:\RKrishna\Spring\NTSP713-master\IOCProj35-I18n-CoreJava"/>
+			<item value="E:\Workspace\Spring\IOCProj21-InnerBeans"/>
+			<item value="E:\Workspace\Spring\IOCProj20-DefaultBeanIds"/>
+			<item value="E:\Workspace\Spring\IOCProj19-CollectionMerging"/>
+			<item value="E:\Workspace\Spring\17IOCProj-BeanInheritence-UsingConstructorInjection"/>
+			<item value="E:\Workspace\Spring\17IOCProj-BeanInheritence"/>
+			<item value="E:\Workspace\Spring\16IOCProj-NullInjection"/>
+			<item value="E:\Workspace\Spring\12IOCProj-CyclicDI-SetterInjection-constuctorInjection"/>
+			<item value="E:\Workspace\Spring\11IOCProj-CyclicDI-constuctorInjection"/>
+			<item value="E:\Workspace\Spring\10IOCProj-CyclicDI-setterInjection"/>
+			<item value="E:\Workspace\Spring\09IOCProj-ResolvingConstructorPArams"/>
+			<item value="E:\Workspace\Spring\08IOCProj-SetterInjection-constructorInjection"/>
+			<item value="D:\RKrishna\Spring\NTSP713-master\IOCProj9-ResolvingConstructorPArams"/>
+			<item value="D:\RKrishna\Spring\NTSP713-master\IOCProj8-SetterInjection-constructorInjection"/>
+			<item value="D:\RKrishna\Spring\NTSP713-master\IOCProj12-CyclicDI-SetterInjection-constuctorInjection"/>
+			<item value="E:\Workspace\Spring\IOCProj2-newInstanceMethod"/>
+			<item value="E:\Workspace\Spring\IOCProj1-SetterInjecion-POC"/>
+			<item value="D:\RKrishna\Spring\NTSP713-master\IOCProj10-CyclicDI-setterInjection"/>
+			<item value="E:\Workspace\Spring\IOCProj16-NullInjection"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="706"/>
+		<item key="DIALOG_Y_ORIGIN" value="142"/>
+		<item key="DIALOG_WIDTH" value="525"/>
+		<item key="DIALOG_HEIGHT" value="580"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=04IOCProj-FactoryPattern-CoreJava/src&lt;com.kk.comp{ICompany.java[ICompany" modifiers="513" timestamp="1639638730826"/>
+    <typeInfo handle="=04IOCProj-FactoryPattern-CoreJava/src&lt;com.kk.comp{IItems.java[IItems" modifiers="513" timestamp="1639638775549"/>
+    <typeInfo handle="=13IOCProj-RealtimeDI-RealtimeStrategyDP-LayeredApp/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.kk.dao{ICustomerDAO.java[ICustomerDAO" modifiers="513" timestamp="1639986690704"/>
+    <typeInfo handle="=13IOCProj-RealtimeDI-RealtimeStrategyDP-LayeredApp/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.kk.service{ICustomerMgmtService.java[ICustomerMgmtService" modifiers="513" timestamp="1639988046496"/>
+    <typeInfo handle="=37IOCProj-RealtimeDI-EventListner/C:\/Users\/ratho\/.m2\/repository\/org\/springframework\/spring-context\/5.3.14\/spring-context-5.3.14.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework=/=/maven.artifactId=/spring-context=/=/maven.version=/5.3.14=/=/maven.scope=/compile=/&lt;org.springframework.context(ApplicationListener.class[ApplicationListener" modifiers="1537" timestamp="1640007087258"/>
+    <typeInfo handle="=37IOCProj-RealtimeDI-EventListner/C:\/Users\/ratho\/.m2\/repository\/org\/springframework\/spring-context\/5.3.14\/spring-context-5.3.14.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework=/=/maven.artifactId=/spring-context=/=/maven.version=/5.3.14=/=/maven.scope=/compile=/&lt;org.springframework.context(ApplicationEventPublisher.class[ApplicationEventPublisher" modifiers="1537" timestamp="1640007087258"/>
+</typeInfoHistroy>
