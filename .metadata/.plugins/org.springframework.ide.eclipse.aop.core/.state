@@ -8,9 +8,9 @@
 <aop-project name="11IOCProj-CyclicDI-constuctorInjection"/>
 <aop-project name="22IOCProj-RealtimeDI-InnerBeans"/>
 <aop-project name="46IOCProjAnno-JavaConfigAnnotations"/>
-<aop-project name="41IOCProjAnno-@Required"/>
-<aop-project name="50IOCProj-SpringBeanLifeCycle-AnnotationDriven"/>
 <aop-project name="51IOCProjAnno-RealtimeDI-RealtimeStrategyDP-SpringBeanLifeCycle"/>
+<aop-project name="50IOCProj-SpringBeanLifeCycle-AnnotationDriven"/>
+<aop-project name="41IOCProjAnno-@Required"/>
 <aop-project name="25IOCProj-StrategyDP-Autowiring"/>
 <aop-project name="49IOCProj-SpringBeanLifeCycle-ProgramaticApproach"/>
 <aop-project name="34IOCProj-RealtimeDI-Propertiees file"/>

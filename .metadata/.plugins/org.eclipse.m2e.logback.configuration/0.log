@@ -5041,3 +5041,4 @@ org.eclipse.core.runtime.CoreException: Launch configuration TestStrategyDP (6) 
 2022-02-17 13:00:42,917 [Worker-29: Git Repository Change Scanner] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[E:\Workspace\Spring\Spring\.git]
 2022-02-17 13:26:42,802 [Worker-40: Decoration Calculation] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[E:\Workspace\Spring\Spring\.git]
 2022-02-17 13:33:03,154 [Worker-46: Cloning from https://github.com/javaRKrishna/Spring.git] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[E:\Workspace\Spring\.git]
+2022-02-18 12:19:42,347 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
